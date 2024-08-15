@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+/* .cont1{
+    background-image: url(https://wallpapercave.com/wp/wp12090809.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center bottom;
+
+}
+
+.cont1 nav{
+    height: 100px;
+} */
+
+.car-card img {
+    height: 200px;
+    object-fit: cover;
+
+}
+
+.navbar {
+  background-color: darkslategrey;
+}
+
+.hero {
+    background: url('https://wallpapercave.com/wp/wp12090809.jpg') no-repeat center  ;
+    background-size: cover;
+    height: 500px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+
+.app{
+    height: 50vh;
+    background-image: url(https://www.cupraofficial.com/content/dam/public/cupra-website/cupra-homepage/banner/x-large/cupra-connect-app-on-phone.jpg);
+    background-size:cover ;
+    
+}
+
+.icon{
+    margin-right: 50px;
+
+}
+
+
